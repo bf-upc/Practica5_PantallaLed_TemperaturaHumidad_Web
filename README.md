@@ -8,8 +8,8 @@
 Sistema completo de monitorización ambiental que combina un sensor de temperatura y humedad **AHT10/AHT20**, una pantalla **OLED SSD1306** y un **servidor web integrado** en modo Access Point (AP). Los datos se muestran simultáneamente en la pantalla física y en una elegante interfaz web responsive.
 
 ![Dashboard Preview](IMG_0660.jpg) <!-- Reemplazar por captura real -->
-(IMG_0664.jpg)
-(IMG_0665.jpg)
+![Montaje](IMG_0664.jpg)
+![Montaje](IMG_0665.jpg)
 
 ---
 
